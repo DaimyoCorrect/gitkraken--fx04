@@ -1,4 +1,4 @@
-# 
+# GitKraken for PC | GitKraken for Windows automatic Script: rebase-support & branch-visualization offers the most advanced GitKraken for PC | GitKraken for Windows script, with
 
 
 
